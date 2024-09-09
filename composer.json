@@ -18,7 +18,7 @@
         "sop/asn1": "^4.0",
         "sop/crypto-encoding": "^0.3.0",
         "sop/crypto-types": "^0.3.0",
-        "symfony/dotenv": "^4.0"
+        "symfony/dotenv": "^7.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
