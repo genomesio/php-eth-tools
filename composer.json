@@ -1,5 +1,5 @@
 {
-    "name": "genomes/php-eth-tools",
+    "name": "genomesio/php-eth-tools",
     "type": "project",
     "description": "PHP Ethereum Tools, Message Signing, EC Recover, Key Generation.",
     "keywords": [
